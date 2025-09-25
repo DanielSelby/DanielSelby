@@ -26,11 +26,6 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
 <img width="12" />
   <!-- Tableau -->
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
-<img width="12" />
-<!-- Looker Studio -->
-<!-- Looker Studio -->
-<img src="https://i.ibb.co/w7Jc1kH/looker-studio.png" height="30" alt="Looker Studio logo" />
-
 </div>
 
 
@@ -39,8 +34,6 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
 <div align="left">
   <a href="https://www.linkedin.com/in/daddyselby/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=bc6c25&logoColor=white&labelColor=0077B5&style=flat" height="38" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=bc6c25&logoColor=white&labelColor=03045e&style=flat" height="38" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Connect&logo=instagram&label=Instagram&color=bc6c25&logoColor=white&labelColor=E4405F&style=flat" height="38" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Tweet&logo=twitter&label=Twitter&color=bc6c25&logoColor=white&labelColor=1DA1F2&style=flat" height="38" alt="twitter logo"  />
