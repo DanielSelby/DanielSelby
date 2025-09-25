@@ -23,6 +23,9 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
 <img width="12" />
   <!-- Google Colab -->
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="30" alt="Google Colab logo" />
+<img width="12" />
+  <!-- Tableau -->
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="30" alt="Tableau logo" />
 </div>
 
 
