@@ -16,6 +16,8 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
   <!-- Excel -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="30" alt="Excel logo" />
 </div>
+
+
 ###
 
 <div align="left">
@@ -26,6 +28,8 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
   </a>
   <img src="https://img.shields.io/static/v1?message=Connect&logo=instagram&label=Instagram&color=bc6c25&logoColor=white&labelColor=E4405F&style=flat" height="38" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Tweet&logo=twitter&label=Twitter&color=bc6c25&logoColor=white&labelColor=1DA1F2&style=flat" height="38" alt="twitter logo"  />
+ </div>
+
  
 ###
 
