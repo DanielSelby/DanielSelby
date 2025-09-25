@@ -38,13 +38,13 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
   <img src="https://img.shields.io/static/v1?message=Connect&logo=instagram&label=Instagram&color=bc6c25&logoColor=white&labelColor=E4405F&style=flat" height="38" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Tweet&logo=twitter&label=Twitter&color=bc6c25&logoColor=white&labelColor=1DA1F2&style=flat" height="38" alt="twitter logo"  />
   <!-- Facebook -->
-<img src="https://img.shields.io/static/v1?message=Connect&logo=facebook&label=Facebook&color=1877F2&logoColor=white&labelColor=1877F2&style=flat" height="38" alt="Facebook logo" />
+<img src="https://img.shields.io/static/v1?message=Connect&logo=facebook&label=Facebook&color=bc6c25&logoColor=white&labelColor=1877F2&style=flat" height="38" alt="Facebook logo" />
 
 <!-- YouTube -->
-<img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=FF0000&logoColor=white&labelColor=FF0000&style=flat" height="38" alt="YouTube logo" />
+<img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=bc6c25&logoColor=white&labelColor=FF0000&style=flat" height="38" alt="YouTube logo" />
 
 <!-- Calendly -->
-<img src="https://img.shields.io/static/v1?message=Schedule&logo=calendly&label=Calendly&color=00a2ff&logoColor=white&labelColor=00a2ff&style=flat" height="38" alt="Calendly logo" />
+<img src="https://img.shields.io/static/v1?message=Schedule&logo=calendly&label=Calendly&color=bc6c25&logoColor=white&labelColor=00a2ff&style=flat" height="38" alt="Calendly logo" />
 
  </div>
 
