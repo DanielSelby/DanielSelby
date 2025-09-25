@@ -22,7 +22,7 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" alt="Jupyter Notebook logo" />
 <img width="12" />
   <!-- Google Colab -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Colaboratory.svg" height="30" alt="Google Colab logo" />
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="30" alt="Google Colab logo" />
 </div>
 
 
