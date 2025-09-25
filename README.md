@@ -12,7 +12,7 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
 </div>
 <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI logo" />
- </div>
+<img width="12" />
 ###
 
 <div align="left">
