@@ -17,6 +17,10 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
     <img width="12" />
   <!-- Excel -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="20" alt="Excel logo" />
+ <img width="12" /
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
+  
 </div>
 
 
