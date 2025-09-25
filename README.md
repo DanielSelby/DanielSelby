@@ -17,10 +17,12 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
     <img width="12" />
   <!-- Excel -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="20" alt="Excel logo" />
- <img width="12" /
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
-  
+<img width="12" />
+<!-- Jupyter Notebook -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" alt="Jupyter Notebook logo" />
+<img width="12" />
+  <!-- Google Colab -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Colaboratory.svg" height="30" alt="Google Colab logo" />
 </div>
 
 
