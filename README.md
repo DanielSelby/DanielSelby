@@ -14,9 +14,10 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
  </div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" />
 </p>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-excel-1869028-1583149.png" height="30" alt="Excel logo" />
-</div>
-
+<p align="left">
+  <!-- Excel -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-excel-1869028-1583149.png" height="30" alt="Excel logo" />
+  
 ###
 
 <div align="left">
