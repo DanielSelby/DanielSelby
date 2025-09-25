@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Daniel, I am a Data Analyst</h2>
 
+## Hi 👋! My name is Daniel, I am a Data Analyst
+
 ###
 
 <div align="left">
