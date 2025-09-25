@@ -26,9 +26,8 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
 ###
 
 ## About Me :computer:
-I'm a passionate Data Analyst with a strong focus on turning raw data into meaningful insights that drive strategic decisions. I enjoy exploring data, building intuitive visualizations, and solving real-world problems using data-driven approaches.
+I'm a passionate Data Analyst with a strong focus on turning raw data into meaningful and actionable insights, that drives and inform strategic decisions. I enjoy exploring data, building intuitive visualizations, and solving real-world problems using data-driven approaches.
 
-🧠 What I Do
 * Cleaning and transforming datasets for analysis
 * Build dashboards and reports using tools like Power BI, and Excel
 * Communicate findings through compelling data storytelling
@@ -45,13 +44,15 @@ I'm a passionate Data Analyst with a strong focus on turning raw data into meani
 * Data Visualization
   
 
+
+## Projects :notebook:
+
+
+
+
+
 ## Goals  📈
 * Keep improving my Python for data analysis and automation
 * Learn more about machine learning & forecasting
 * Collaborate on real-world analytics projects
 
-
-
-
-
-## Projects :notebook:
