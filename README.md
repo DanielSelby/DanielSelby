@@ -24,10 +24,10 @@ Data Analyst | Power BI | Excel | SQL
 
 ###
 
-## About Me
+## About Me :computer:
 I am a Data analyst with 3 years experience. I am proficient in data analytics tools.
 
-## Skills
+## Skills :hammer_and_wrench:
 * Power BI
 * Excel
 * SQL
@@ -39,4 +39,4 @@ I am a Data analyst with 3 years experience. I am proficient in data analytics t
 2. Excel
 3. SQL
 
-## Projects
+## Projects :notebook:
