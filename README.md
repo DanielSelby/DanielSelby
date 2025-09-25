@@ -27,7 +27,14 @@ Data Analyst | Power BI | Excel | SQL
 ###
 
 ## About Me :computer:
-I am a Data analyst with 3 years experience. I am proficient in data analytics tools.
+I'm a passionate Data Analyst with a strong focus on turning raw data into meaningful insights that drive strategic decisions. I enjoy exploring data, building intuitive visualizations, and solving real-world problems using data-driven approaches.
+
+🧠 What I Do
+* Clean and wrangle large datasets for analysis
+* Build dashboards and reports using tools like Power BI, and Excel
+* Communicate findings through compelling data storytelling
+* Writing optimized SQL queries for data extraction
+
 
 ## Skills :hammer_and_wrench:
 * Power BI
@@ -36,9 +43,7 @@ I am a Data analyst with 3 years experience. I am proficient in data analytics t
 * Python
 * Data Analysis
 * Data Cleaning
+* Data Visualization
 
-1. Power BI
-2. Excel
-3. SQL
 
 ## Projects :notebook:
