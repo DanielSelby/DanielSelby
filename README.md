@@ -46,7 +46,7 @@ I'm a passionate Data Analyst with a strong focus on turning raw data into meani
 * Data Visualization
   
 
-📈 Goals
+## Goals  📈
 * Keep improving my Python for data analysis and automation
 * Learn more about machine learning & forecasting
 * Collaborate on real-world analytics projects
