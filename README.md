@@ -28,7 +28,9 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
 <img width="12" />
 <!-- Looker Studio -->
-<img src="https://i.imgur.com/fnG3K2y.png" height="30" alt="Looker Studio logo" />
+<!-- Looker Studio -->
+<img src="https://i.ibb.co/w7Jc1kH/looker-studio.png" height="30" alt="Looker Studio logo" />
+
 </div>
 
 
