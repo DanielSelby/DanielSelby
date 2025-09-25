@@ -24,6 +24,8 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
   </a>
   <img src="https://img.shields.io/static/v1?message=Connect&logo=instagram&label=Instagram&color=bc6c25&logoColor=white&labelColor=E4405F&style=flat" height="38" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Tweet&logo=twitter&label=Twitter&color=bc6c25&logoColor=white&labelColor=1DA1F2&style=flat" height="38" alt="twitter logo"  />
+  <!-- Excel -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-excel-1869028-1583149.png" height="30" alt="Excel logo" />
 </div>
 
 ###
