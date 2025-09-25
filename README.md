@@ -19,13 +19,13 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="20" alt="Excel logo" />
 <img width="12" />
 <!-- Jupyter Notebook -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" alt="Jupyter Notebook logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="20" alt="Jupyter Notebook logo" />
 <img width="12" />
   <!-- Google Colab -->
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="30" alt="Google Colab logo" />
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="20" alt="Google Colab logo" />
 <img width="12" />
   <!-- Tableau -->
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="30" alt="Tableau logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
 </div>
 
 
