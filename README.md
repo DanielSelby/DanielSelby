@@ -11,11 +11,11 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="Power BI logo" />
-  <img width="12" />
+ </div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" />
 </p>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-excel-1869028-1583149.png" height="30" alt="Excel logo" />
- <img width="12" />
+</div>
 
 ###
 
