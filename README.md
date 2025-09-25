@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Daniel, I am a Data Analyst</h2>
 
-## Hi 👋! My name is Daniel, I am a Data Analyst
+Data Analyst | Power BI | Excel | SQL
 
 ###
 
@@ -24,4 +24,19 @@
 
 ###
 
+## About Me
+I am a Data analyst with 3 years experience. I am proficient in data analytics tools.
 
+## Skills
+* Power BI
+* Excel
+* SQL
+* Python
+* Data Analysis
+* Data Cleaning
+
+1. Power BI
+2. Excel
+3. SQL
+
+## Projects
