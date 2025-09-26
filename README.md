@@ -1,9 +1,6 @@
 <h2 align="left">Hi 👋! My name is Daniel, I am a Data Analyst</h2>
 
-<p align="center">
-  <sub>
-    Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytical Tools || Excel || SQL || Python || Power BI || Machine Learning & AI Enthusiast || Cloud Computing Enthusiast || Generative AI Enthusiast
-  </sub>
+<sub><sub>Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytical Tools || Excel || SQL || Python || Power BI || Machine Learning & AI Enthusiast || Cloud Computing Enthusiast || Generative AI Enthusiast</sub></sub>
 
 
 ###
