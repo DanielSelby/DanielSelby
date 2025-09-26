@@ -28,8 +28,9 @@
   <!-- Tableau -->
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
 <img width="12" />
-<!-- QuickBooks -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Intuit_QuickBooks_logo.png" height="20" alt="QuickBooks logo" />
+<img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="20" alt="QuickBooks logo" />
+<img width="12" />
+
 </div>
 
 
