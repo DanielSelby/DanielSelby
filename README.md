@@ -67,7 +67,7 @@ I'm a passionate Data Analyst with a strong focus on turning raw data into meani
 
 ## Core Skills & Capabilities :hammer_and_wrench: 
 
-***Business Intelligence & Data Visualization:**
+** -Business Intelligence & Data Visualization:**
 
 - Power BI  
 - Excel  
