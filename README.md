@@ -71,23 +71,29 @@ I'm a passionate Data Analyst with a strong focus on turning raw data into meani
 - Tools:
   - Power BI
   - Excel
-  - SQL
+  - SQL (MySQL, Microsft SQL Server)
   - Python
 - Skills:
   - Data Analysis
   - Data Cleaning
   - Data Visualization
+  - Data Storytelling
+  - Dashboard Building
+  - Problem Solving
+  - Leadership & Management
+  - Teamwork
   
 
 
-## Projects :notebook:
+## Data Analytics Projects :notebook:
 
 
 
 
 
 ## Goals  📈
-* Keep improving my Python for data analysis and automation
-* Learn more about machine learning & forecasting
-* Collaborate on real-world analytics projects
-
+* leveraging data analytics to solve real-world problems by transforming raw information into actionable insights.
+* Develop skills in machine learning, forecasting, and generative AI to build intelligent systems for automation and prediction.
+* Work collaboratively on analytics projects that address practical, real-world challenges.
+* Driven to expand my capabilities in data analysis, visualization, and the adoption of emerging technologies.
+* To establish myself as a trusted problem-solver, empowering others and advancing sustainable growth and innovation.
