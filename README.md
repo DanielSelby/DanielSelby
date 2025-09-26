@@ -32,7 +32,7 @@
 <img width="20" />
 
 <!-- Looker Studio -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Looker_Studio_Logo.svg" height="20" alt="Looker Studio logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Looker_Studio_Logo.png" height="20" alt="Looker Studio logo" />
 <img width="12" />
 
 
