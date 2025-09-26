@@ -65,14 +65,17 @@ I'm a passionate Data Analyst with a strong focus on turning raw data into meani
 * Writing optimized SQL queries for data extraction
 
 
-## Skills :hammer_and_wrench: 
-* Power BI
-* Excel
-* SQL
-* Python
-* Data Analysis
-* Data Cleaning
-* Data Visualization
+## Core Skills & Capabilities :hammer_and_wrench: 
+
+**Business Intelligence & Data Visualization:
+
+- Power BI  
+- Excel  
+- SQL  
+- Python  
+- Data Analysis  
+- Data Cleaning  
+- Data Visualization  
   
 
 
