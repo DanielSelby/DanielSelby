@@ -50,7 +50,7 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
 
 ### 
 
-## Mission Statement 🎯
+## Mission Statement 🎯 
 
 I seek to use knowledge, creativity, and compassion to overcome challenges and open new opportunities. By building structures that enhance growth guided by curiosity, resilience, and innovation, I strive to live a purposeful life, foster growth, and leave a positive and lasting impact to communities, organizations, and future leaders.
  
