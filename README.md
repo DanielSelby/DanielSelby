@@ -57,7 +57,7 @@ I seek to use knowledge, creativity, and compassion to overcome challenges and o
 ###
 
 ## About Me :computer:
-I'm a passionate Data Analyst with a strong focus on turning raw data into meaningful and actionable insights, that drives and inform strategic decisions. I enjoy exploring data, building intuitive visualizations, and solving real-world problems using data-driven approaches.
+I'm a Data Analyst with a strong focus on turning raw data into meaningful and actionable insights, that drives and inform strategic decisions. I enjoy exploring data, building intuitive visualizations, and solving real-world problems using data-driven approaches.
 
 * Cleaning and transforming datasets for analysis
 * Build dashboards and reports using tools like Power BI, and Excel
