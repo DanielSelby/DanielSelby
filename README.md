@@ -27,6 +27,9 @@
 <img width="12" />
   <!-- Tableau -->
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
+
+  [![Schedule a Meeting](https://img.shields.io/badge/Schedule%20a%20Meeting-Calendly-blue)](https://calendly.com/daniel-selby)
+
 </div>
 
 
