@@ -27,7 +27,9 @@
 <img width="12" />
   <!-- Tableau -->
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
-
+<img width="12" />
+<!-- QuickBooks -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Intuit_QuickBooks_logo.png" height="20" alt="QuickBooks logo" />
 </div>
 
 
