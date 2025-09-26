@@ -53,8 +53,8 @@
 
 ## Mission Statement 🎯 
 
-I seek to use knowledge, creativity, and compassion to overcome challenges and open new opportunities. 
-Building structures that enhance growth, guided by curiosity, resilience, and innovation, I strive to live a purposeful life, foster growth, and leave a positive and lasting impact to communities, organizations, and future leaders.
+I strive to utilize knowledge, creativity, and compassion to overcome challenges and create new opportunities. 
+Building structures that enhance growth, guided by curiosity, resilience, and innovation, I strive to live a purposeful life, foster growth, and leave a positive and lasting impact on communities, organizations, and future leaders.
 
 <sub>*Building growth, inspiring leaders, leaving lasting impact.*</sub>
 
@@ -62,7 +62,7 @@ Building structures that enhance growth, guided by curiosity, resilience, and in
 ###
 
 ## About Me :computer:
-I'm a Data Analyst with a strong focus on turning raw data into meaningful and actionable insights, that drives and inform strategic decisions. I enjoy exploring data, building intuitive visualizations, and solving real-world problems using data-driven approaches.
+I'm a Data Analyst with a strong focus on turning raw data into meaningful and actionable insights that drive and inform strategic decisions. I enjoy exploring data, building intuitive visualizations, and solving real-world problems using data-driven approaches.
 
 * Cleaning and transforming datasets for analysis
 * Build dashboards and reports using tools like Power BI, and Excel
@@ -76,7 +76,7 @@ I'm a Data Analyst with a strong focus on turning raw data into meaningful and a
 - Tools:
   - Power BI
   - Excel
-  - SQL (MySQL, Microsft SQL Server)
+  - SQL (MySQL, Microsoft SQL Server)
   - Python
 - Skills:
   - Data Analysis
@@ -101,4 +101,4 @@ I'm a Data Analyst with a strong focus on turning raw data into meaningful and a
 * Develop skills in machine learning, forecasting, and generative AI to build intelligent systems for automation and prediction.
 * Work collaboratively on analytics projects that address practical, real-world challenges.
 * Driven to expand my capabilities in data analysis, visualization, and the adoption of emerging technologies.
-* To establish myself as a trusted problem-solver, empowering others and advancing sustainable growth and innovation.
+* To establish myself as a trusted problem-solver, empowering others, and advancing sustainable growth and innovation.
