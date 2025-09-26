@@ -4,7 +4,7 @@
   <sub>
     Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytical Tools || Excel || SQL || Python || Power BI || Machine Learning & AI Enthusiast || Cloud Computing Enthusiast || Generative AI Enthusiast
   </sub>
-</p>
+
 
 ###
 
