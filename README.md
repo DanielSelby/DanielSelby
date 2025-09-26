@@ -88,10 +88,13 @@ I'm a Data Analyst with a strong focus on turning raw data into meaningful and a
   - Data Visualization
   - Data Storytelling
   - Dashboard Building
+  
+
+
+  **Leadership, Innovation & Creativity:**
   - Problem Solving
   - Leadership & Management
   - Teamwork
-  
 
 
 ## Data Analytics Projects :notebook:
