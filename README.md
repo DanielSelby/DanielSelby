@@ -75,9 +75,13 @@ I'm a Data Analyst with a strong focus on turning raw data into meaningful and a
 **Business Intelligence & Data Visualization:**
 - Tools:
   - Power BI
+  - Tableau
   - Excel
   - SQL (MySQL, Microsoft SQL Server)
   - Python
+  - Jupiter Notebook
+  - Google Colab
+  - VS Code
 - Skills:
   - Data Analysis
   - Data Cleaning
