@@ -35,16 +35,16 @@ Data Analyst || Turning Raw Data into Insights that Drive Growth Using Analytica
   <a href="https://www.linkedin.com/in/daddyselby/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=d6ce93&logoColor=white&labelColor=0077B5&style=flat" height="38" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Connect&logo=instagram&label=Instagram&color=bc6c25&logoColor=white&labelColor=E4405F&style=flat" height="38" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Tweet&logo=twitter&label=Twitter&color=bc6c25&logoColor=white&labelColor=1DA1F2&style=flat" height="38" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Connect&logo=instagram&label=Instagram&color=d6ce93&logoColor=white&labelColor=E4405F&style=flat" height="38" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Tweet&logo=twitter&label=Twitter&color=d6ce93&logoColor=white&labelColor=1DA1F2&style=flat" height="38" alt="twitter logo"  />
   <!-- Facebook -->
-<img src="https://img.shields.io/static/v1?message=Connect&logo=facebook&label=Facebook&color=bc6c25&logoColor=white&labelColor=1877F2&style=flat" height="38" alt="Facebook logo" />
+<img src="https://img.shields.io/static/v1?message=Connect&logo=facebook&label=Facebook&color=d6ce93&logoColor=white&labelColor=1877F2&style=flat" height="38" alt="Facebook logo" />
 
 <!-- YouTube -->
-<img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=bc6c25&logoColor=white&labelColor=FF0000&style=flat" height="38" alt="YouTube logo" />
+<img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=d6ce93&logoColor=white&labelColor=FF0000&style=flat" height="38" alt="YouTube logo" />
 
 <!-- Calendly -->
-<img src="https://img.shields.io/static/v1?message=Schedule&logo=calendly&label=Calendly&color=bc6c25&logoColor=white&labelColor=00a2ff&style=flat" height="38" alt="Calendly logo" />
+<img src="https://img.shields.io/static/v1?message=Schedule&logo=calendly&label=Calendly&color=d6ce93&logoColor=white&labelColor=00a2ff&style=flat" height="38" alt="Calendly logo" />
 
  </div>
 
