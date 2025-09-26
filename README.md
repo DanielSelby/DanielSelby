@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=d6ce93&logoColor=white&labelColor=FF0000&style=flat" height="38" alt="YouTube logo" />
 
 <!-- Calendly -->
-<a href="https://calendly.com/danielselby" target="_blank">
+<a href="https://calendly.com/daddyselby" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Schedule&logo=calendly&label=Calendly&color=d6ce93&logoColor=white&labelColor=00a2ff&style=flat" height="38" alt="Calendly logo" />
 </a>
 
