@@ -56,7 +56,8 @@
 I seek to use knowledge, creativity, and compassion to overcome challenges and open new opportunities. 
 Building structures that enhance growth, guided by curiosity, resilience, and innovation, I strive to live a purposeful life, foster growth, and leave a positive and lasting impact to communities, organizations, and future leaders.
 
-*Building growth, inspiring leaders, leaving lasting impact.*
+<sub>*Building growth, inspiring leaders, leaving lasting impact.*</sub>
+
  
 ###
 
