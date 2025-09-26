@@ -28,8 +28,6 @@
   <!-- Tableau -->
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
 
-  [![Schedule a Meeting](https://img.shields.io/badge/Schedule%20a%20Meeting-Calendly-blue)](https://calendly.com/daniel-selby)
-
 </div>
 
 
@@ -48,7 +46,9 @@
 <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=d6ce93&logoColor=white&labelColor=FF0000&style=flat" height="38" alt="YouTube logo" />
 
 <!-- Calendly -->
-<img src="https://img.shields.io/static/v1?message=Schedule&logo=calendly&label=Calendly&color=d6ce93&logoColor=white&labelColor=00a2ff&style=flat" height="38" alt="Calendly logo" />
+<a href="https://calendly.com/danielselby" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Schedule&logo=calendly&label=Calendly&color=d6ce93&logoColor=white&labelColor=00a2ff&style=flat" height="38" alt="Calendly logo" />
+</a>
 
  </div>
 
