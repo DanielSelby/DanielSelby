@@ -31,9 +31,6 @@
 <img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="20" alt="QuickBooks logo" />
 <img width="20" />
 
-<!-- Looker Studio -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Looker_Studio_Logo.png" height="20" alt="Looker Studio logo" />
-<img width="12" />
 
 
 </div>
