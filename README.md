@@ -70,12 +70,20 @@ Building structures that enhance growth, guided by curiosity, resilience, and in
 ###
 
 ## About Me :computer:
-I'm a Data Analyst with a strong focus on turning raw data into meaningful and actionable insights that drive and inform strategic decisions. I enjoy exploring data, building intuitive visualizations, and solving real-world problems using data-driven approaches.
 
-* Cleaning and transforming datasets for analysis
-* Build dashboards and reports using tools like Power BI, and Excel
-* Communicate findings through compelling data storytelling
-* Writing optimized SQL queries for data extraction
+I’m a Data Analyst passionate about transforming raw data into insights that drive business decisions. I enjoy working with data across its full lifecycle — from cleaning and preparation, to analysis, visualization, and storytelling. My approach combines technical skills with business understanding to solve real-world problems and deliver measurable value.
+
+What sets me apart is my curiosity and adaptability. I’m naturally eager to explore new tools, technologies, and techniques, and I learn them quickly. This allows me to stay ahead of trends, continuously sharpen my skills, and bring fresh, innovative perspectives to every project I work on.
+
+**What I Do**
+
+Data Preparation: Collecting, cleaning, and transforming datasets to ensure reliability and accuracy.
+
+Analysis & Exploration: Using SQL and Python to extract, query, and explore data for meaningful patterns.
+
+Visualization & Reporting: Designing dashboards and reports in Power BI and Excel to communicate insights clearly.
+
+Data Storytelling: Turning analytical results into compelling narratives that influence decision-making.
 
 
 ## Core Skills & Capabilities :hammer_and_wrench: 
