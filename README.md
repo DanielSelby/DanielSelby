@@ -5,43 +5,49 @@
 
 
 ###
-##  Tech Tools 🛠️
+## 🛠️ Tech Tools  
 
+### 👨‍💻 Programming
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="microsoftsqlserver logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
-  <img width="35" />
-<!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="20" alt="Power BI logo" />
-    <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="VS Code logo" /> 
-    <img width="35" />
-  <!-- Excel -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="20" alt="Excel logo" />
-<img width="35" />
-<!-- Jupyter Notebook -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="20" alt="Jupyter Notebook logo" />
-<img width="35" />
-  <!-- Google Colab -->
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="20" alt="Google Colab logo" />
-<img width="35" />
-  <!-- Tableau -->
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
-<img width="35" />
-<img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="20" alt="QuickBooks logo" />
-<img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" width="40" alt="Python logo" />
+</div>
 
-
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="20" width="35" alt="Scikit-learn logo" />
+### 🗄️ Databases
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" width="40" alt="Microsoft SQL Server logo" />
   <img width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="20" width="35" alt="TensorFlow logo" />
-  <img width="35" />
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="20" width="35" alt="PyTorch logo" />
-  <img width="35" />
-</div>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" width="40" alt="MySQL logo" />
+</div>
+
+### 📊 BI & Visualization
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="25" width="40" alt="Power BI logo" />
+  <img width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="25" width="40" alt="Tableau logo" />
+  <img width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="25" width="40" alt="Excel logo" />
+</div>
+
+### 🛠️ Tools & IDEs
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" width="40" alt="VS Code logo" />
+  <img width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25" width="40" alt="Jupyter Notebook logo" />
+  <img width="40" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="25" width="40" alt="Google Colab logo" />
+  <img width="40" />
+  <img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="25" width="40" alt="QuickBooks logo" />
+</div>
+
+### 🤖 Machine Learning
+<div align="left">
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="25" width="40" alt="Scikit-learn logo" />
+  <img width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="25" width="40" alt="TensorFlow logo" />
+  <img width="40" />
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="25" width="40" alt="PyTorch logo" />
+</div>
+
 
 
 
