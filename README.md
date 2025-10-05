@@ -39,7 +39,6 @@
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="20" width="40" alt="Google Colab logo" />
   <img width="40" />
   <img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="20" width="40" alt="QuickBooks logo" />
-
   <img width="40" />
 
   <!-- Machine Learning -->
