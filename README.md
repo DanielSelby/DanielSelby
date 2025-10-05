@@ -11,9 +11,9 @@
 <div align="left">
 
   <!-- Visualization -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="25" width="40" alt="Power BI logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="20" width="40" alt="Power BI logo" />
   <img width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="25" width="40" alt="Tableau logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" width="40" alt="Tableau logo" />
   <img width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="25" width="40" alt="Excel logo" />
 
