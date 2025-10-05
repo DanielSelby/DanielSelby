@@ -35,6 +35,12 @@
 <img width="35" />
 
 
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="20" width="35" alt="Scikit-learn logo" />
+  <img width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="20" width="35" alt="TensorFlow logo" />
+  <img width="35" />
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="20" width="35" alt="PyTorch logo" />
+  <img width="35" />
 </div>  
 
 
