@@ -9,9 +9,9 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
-  <img width="35" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="microsoftsqlserver logo"  />
-  <img width="35" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
   <img width="35" />
 <!-- Power BI -->
