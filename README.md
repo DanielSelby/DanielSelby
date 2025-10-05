@@ -68,6 +68,12 @@
 <!-- YouTube -->
 <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=d6ce93&logoColor=white&labelColor=FF0000&style=flat" height="38" alt="YouTube logo" />
 
+<!-- WhatsApp -->
+<a href="https://wa.me/233244707120" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Chat&logo=whatsapp&label=WhatsApp&color=25D366&logoColor=white&labelColor=128C7E&style=flat" height="38" alt="WhatsApp logo" />
+</a>
+
+
 <!-- Calendly -->
 <a href="https://calendly.com/daddyselby" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Schedule&logo=calendly&label=Calendly&color=d6ce93&logoColor=white&labelColor=00a2ff&style=flat" height="38" alt="Calendly logo" />
