@@ -5,7 +5,7 @@
 
 
 ###
-## 🛠️ Tech Tools 
+##  Tech Tools 🛠️
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
@@ -48,7 +48,7 @@
 
 
 ###
-## 🔗 Social & Contact Links
+## Social & Contact Links 🔗 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/daddyselby/" target="_blank">
