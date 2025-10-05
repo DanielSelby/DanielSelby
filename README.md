@@ -63,7 +63,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Adobe_Express_logo.svg" height="20" alt="Adobe Firefly logo" />
 </div>  
 
-
+<!-- Looker Studio (fixed) -->
+  <img src="https://www.gstatic.com/lookerstudio/images/favicon/favicon_96.png" height="20" alt="Looker Studio logo" />
 
 
 
