@@ -70,7 +70,7 @@
 
 <!-- WhatsApp -->
 <a href="https://wa.me/233244707120" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Chat&logo=whatsapp&label=WhatsApp&color=25D366&logoColor=white&labelColor=128C7E&style=flat" height="38" alt="WhatsApp logo" />
+  <img src="https://img.shields.io/static/v1?message=Chat&logo=whatsapp&label=WhatsApp&color=d6ce93&logoColor=white&labelColor=128C7E&style=flat" height="38" alt="WhatsApp logo" />
 </a>
 
 
