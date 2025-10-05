@@ -5,9 +5,8 @@
 
 
 ###
-## 🛠️ Tech Tools  
+##  Tech Tools 🛠️ 
 
-## 🛠️ Tech Tools  
 
 <div align="left">
 
