@@ -6,32 +6,45 @@
 
 ###
 
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Programming & Scripting  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="microsoftsqlserver logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
-  <img width="35" />
-<!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="20" alt="Power BI logo" />
-    <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="VS Code logo" /> 
-    <img width="35" />
-  <!-- Excel -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="20" alt="Excel logo" />
-<img width="35" />
-<!-- Jupyter Notebook -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="20" alt="Jupyter Notebook logo" />
-<img width="35" />
-  <!-- Google Colab -->
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="20" alt="Google Colab logo" />
-<img width="35" />
-  <!-- Tableau -->
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
-<img width="35" />
-<img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="20" alt="QuickBooks logo" />
-<img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code logo" /> 
+  <img width="20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="35" alt="Jupyter Notebook logo" />
+  <img width="20" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="35" alt="Google Colab logo" />
+</div>  
+
+---
+
+### 🗄️ Databases  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="Microsoft SQL Server logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL logo" />
+</div>  
+
+---
+
+### 📊 Data Visualization & BI  
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35" alt="Power BI logo" />
+  <img width="20" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="35" alt="Tableau logo" />
+  <img width="20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="35" alt="Excel logo" />
+</div>  
+
+---
+
+### ⚙️ Tools & Others  
+<div align="left">
+  <img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="35" alt="QuickBooks logo" />
+</div>  
 
 
 
@@ -103,7 +116,7 @@ Data Storytelling: Turning analytical results into compelling narratives that in
   - Excel
   - SQL (MySQL, Microsoft SQL Server)
   - Python
-  - Jupiter Notebook
+  - Jupyter Notebook
   - Google Colab
   - VS Code
 - Skills:
@@ -133,3 +146,4 @@ Data Storytelling: Turning analytical results into compelling narratives that in
 * Work collaboratively on analytics projects that address practical, real-world challenges.
 * Driven to expand my capabilities in data analysis, visualization, and the adoption of emerging technologies.
 * To establish myself as a trusted problem-solver, empowering others, and advancing sustainable growth and innovation.
+* Build and publish machine learning projects.
