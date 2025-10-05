@@ -6,49 +6,49 @@
 
 ###
 
+
 ## 🛠️ Tech Stack  
 
 ### 👨‍💻 Programming & Scripting  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="VS Code logo" /> 
   <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="35" alt="Jupyter Notebook logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="20" alt="Jupyter Notebook logo" />
   <img width="20" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="35" alt="Google Colab logo" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="20" alt="Google Colab logo" />
 </div>  
 
 ---
 
 ### 🗄️ Databases  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="Microsoft SQL Server logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="Microsoft SQL Server logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="MySQL logo" />
 </div>  
 
 ---
 
 ### 📊 Data Visualization & BI  
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35" alt="Power BI logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="20" alt="Power BI logo" />
   <img width="20" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="35" alt="Tableau logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
   <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="35" alt="Excel logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="20" alt="Excel logo" />
 </div>  
 
 ---
 
 ### ⚙️ Tools & Others  
 <div align="left">
-  <img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="35" alt="QuickBooks logo" />
+  <img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="20" alt="QuickBooks logo" />
 </div>  
 
 
 
-</div>
 
 
 ###
