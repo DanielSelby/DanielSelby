@@ -36,8 +36,8 @@
   <img width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="20" width="40" alt="Jupyter Notebook logo" />
   <img width="40" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="20" width="30" alt="Google Colab logo" />
-  <img width="50" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="20" width="40" alt="Google Colab logo" />
+  <img width="40" />
 
   <!-- Machine Learning -->
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="20" width="40" alt="Scikit-learn logo" />
