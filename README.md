@@ -31,16 +31,16 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
   <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="20" alt="Excel logo" />
-  <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Google_Data_Studio_logo.png" height="20" alt="Looker Studio logo" />
+
 
   <!-- Tools -->
   <img width="15" />
   <img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="20" alt="QuickBooks logo" />
 
   <!-- Machine Learning -->
+   <!-- Scikit-learn (fixed) -->
   <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Scikit_learn_logo_small.svg" height="20" alt="Scikit-Learn logo" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="20" alt="Scikit-learn logo" />
   <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="20" alt="TensorFlow logo" />
   <img width="15" />
