@@ -6,87 +6,66 @@
 
 ###
 
-
-### 👨‍💻 Programming & Scripting
+## 🛠️ Tech Stack  
 
 <div align="left">
+  <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python logo" />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="VS Code logo" /> 
-  <img width="20" />
+  <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="20" alt="Jupyter Notebook logo" />
-  <img width="20" />
+  <img width="15" />
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="20" alt="Google Colab logo" />
-</div>  
 
----
-
-### 🗄️ Databases  
-<div align="left">
+  <!-- Databases -->
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="Microsoft SQL Server logo" />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="MySQL logo" />
-</div>  
 
----
-
-### 📊 Data Visualization & BI  
-<div align="left">
+  <!-- BI & Visualization -->
+  <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="20" alt="Power BI logo" />
-  <img width="20" />
+  <img width="15" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20" alt="Tableau logo" />
-  <img width="20" />
+  <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="20" alt="Excel logo" />
-</div>  
-
----
-
-### ⚙️ Tools & Others  
-<div align="left">
-  <img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="20" alt="QuickBooks logo" />
-</div>  
-
----
-
-### 📈 Advanced Analytics & AI  
-<div align="left">
-  <!-- Machine Learning -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Scikit_learn_logo_small.svg" height="20" alt="Scikit-Learn logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="20" alt="TensorFlow logo" />
-  <img width="20" />
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="20" alt="PyTorch logo" />
-</div>  
-
----
-
-### ☁️ Cloud Computing  
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="20" alt="AWS logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="20" alt="Azure logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="20" alt="Google Cloud logo" />
-</div>  
-
----
-
-### 🎨 Generative AI  
-<div align="left">
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" height="20" alt="OpenAI logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google_Bard_logo.svg" height="20" alt="Google Bard logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Adobe_Express_logo.svg" height="20" alt="Adobe Firefly / Express logo" />
-</div>  
-
----
-
-### 📊 Business Intelligence (Extended)  
-<div align="left">
-  <!-- Looker Studio -->
+  <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Google_Data_Studio_logo.png" height="20" alt="Looker Studio logo" />
+
+  <!-- Tools -->
+  <img width="15" />
+  <img src="https://www.pngkey.com/png/detail/265-2659706_integrate-quickbooks-online-quickbooks-logo-transparent.png" height="20" alt="QuickBooks logo" />
+
+  <!-- Machine Learning -->
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Scikit_learn_logo_small.svg" height="20" alt="Scikit-Learn logo" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="20" alt="TensorFlow logo" />
+  <img width="15" />
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="20" alt="PyTorch logo" />
+
+  <!-- Cloud -->
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="20" alt="AWS logo" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="20" alt="Azure logo" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="20" alt="Google Cloud logo" />
+
+  <!-- Generative AI -->
+  <img width="15" />
+  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" height="20" alt="OpenAI logo" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google_Bard_logo.svg" height="20" alt="Google Bard logo" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Adobe_Express_logo.svg" height="20" alt="Adobe Firefly logo" />
 </div>  
+
+
+
+
 
 
 
