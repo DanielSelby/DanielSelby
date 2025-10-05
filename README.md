@@ -63,10 +63,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Adobe_Express_logo.svg" height="20" alt="Adobe Firefly logo" />
 </div>  
 
-<!-- OpenAI (fixed) -->
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="20" alt="OpenAI logo" />
+<!-- Google Bard (fixed: using Gemini logo instead since Bard rebranded) -->
+  <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/gemini_logo_icon_249662.png" height="20" alt="Google Gemini (Bard) logo" />
   <img width="15" />
-
 
 
 
