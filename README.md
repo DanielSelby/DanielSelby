@@ -48,7 +48,7 @@
 
 
 ###
-## 🔗 Contact Links
+## 🔗 Social & Contact Links
 
 <div align="left">
   <a href="https://www.linkedin.com/in/daddyselby/" target="_blank">
