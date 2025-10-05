@@ -53,14 +53,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="20" alt="Azure logo" />
 
 
-  <!-- Generative AI -->
-  <img width="15" />
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" height="20" alt="OpenAI logo" />
-  <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Adobe_Express_logo.svg" height="20" alt="Adobe Firefly logo" />
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/main/icons/openai.svg" height="20" alt="OpenAI logo" />
-
 </div>  
 
 <!-- Google Bard (fixed: using Gemini logo instead since Bard rebranded) -->
